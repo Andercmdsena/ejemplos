@@ -1,0 +1,23 @@
+[33mcommit 7598e3dd2b8e4f5145af2e2d51ffaa868088cd4d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ander <you@example.com>
+Date:   Mon Aug 29 23:06:49 2022 -0500
+
+    agregue algunos iconos
+
+[33mcommit c3c5bea32ad84068371efbe4c5181b98f7c1cd4e[m
+Author: ander <you@example.com>
+Date:   Mon Aug 29 22:59:00 2022 -0500
+
+    otro ejemplo v1
+
+[33mcommit 10c555081cae61cb5602a11feec52ca7c246e48e[m
+Author: ander <you@example.com>
+Date:   Mon Aug 29 22:40:54 2022 -0500
+
+    version 1.0.1 primer cambio
+
+[33mcommit b44649b6cad0312a8e0478d2927ae783e467e70e[m
+Author: ander <you@example.com>
+Date:   Mon Aug 29 22:38:33 2022 -0500
+
+    version 1.0 original
